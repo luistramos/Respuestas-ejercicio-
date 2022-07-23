@@ -1,0 +1,12 @@
+1) How do you see the files changed within each commit from git log?
+
+Con el comando git log --stat, podemos ver los archivos que han sufrido cambios.
+
+
+2) How do you see the contents of what changed within each file from the git log?
+
+Con el comando git log --patch que nos dice que cambios sufrieron esos archivos.
+
+3) What does HEAD refer in the context of gif?
+
+El HEAD contiene el identificador de la rama actual. Y cada vez que cambiamos de rama el HEAD cambia su valor.
